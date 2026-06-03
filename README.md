@@ -70,6 +70,7 @@ Raw Data → Bronze Layer → Silver Layer → Gold Layer → Delta Tables
 
 
 
-Made by Rajendra K
 
-Aspiring Azure Data Engineer | Open to UK Relocation
+--  Made by Rajendra K
+
+--  Aspiring Azure Data Engineer | Open to UK Relocation
