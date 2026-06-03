@@ -64,3 +64,9 @@ Raw Data → Bronze Layer → Silver Layer → Gold Layer → Delta Tables
 - `gold_customer_sales` — Sales aggregated by customer
 - `gold_product_sales` — Revenue aggregated by product
 - `gold_monthly_trend` — Sales aggregated by month
+
+
+
+Made by Rajendra K
+
+Aspiring Azure Data Engineer | Open to UK Relocation
